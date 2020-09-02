@@ -1,0 +1,20 @@
+insert into SECTOR values
+(1,'Urbirrios'),
+(2,'Cuba'),
+(3,'Los Esteros'),
+(4,'El Palmar'),
+(5,'Costa Azul');
+
+insert into ESTACION values
+(101,1,5,50),
+(202,2,8,75),
+(303,3,4,25),
+(404,4,6,35),
+(505,5,10,100);
+
+insert into SUBTENIENTES values
+(101,'Josue','Cobos','Manta','0996355682','28-10-90',5),
+(202,'Robet','Moreira','Jipijapa','0975322654','15-06-91',7),
+(303,'Darwin','Barcia','Esmeralda','0986325478','08-09-92',10),
+(404,'Ronald','Merchan','Guayaquil','0973655996','03-06-98',5),
+(505,'Luis','Velez','Caracas','0998633456','05-08-97',8);
